@@ -1,3 +1,54 @@
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = https://github.com/hallison/vim-markdown
+[submodule "ciscoasa.vim"]
+	path = ciscoasa.vim
+	url = https://github.com/vim-scripts/ciscoasa.vim
+[submodule "html5-syntax.vim"]
+	path = html5-syntax.vim
+	url = http://github.com/othree/html5-syntax.vim
+[submodule "vim-json"]
+	path = vim-json
+	url = https://github.com/elzr/vim-json
+[submodule "glsl.vim"]
+	path = glsl.vim
+	url = https://github.com/vim-scripts/glsl.vim
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/vim-scripts/jQuery
+[submodule "cocoa.vim"]
+	path = cocoa.vim
+	url = https://github.com/msanders/cocoa.vim
+[submodule "vim-git"]
+	path = vim-git
+	url = https://github.com/tpope/vim-git
+[submodule "vim-toml"]
+	path = vim-toml
+	url = https://github.com/cespare/vim-toml
+[submodule "mojo.vim"]
+	path = mojo.vim
+	url = https://github.com/yko/mojo.vim
+[submodule "vim-javascript-syntax"]
+	path = vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax
+[submodule "vim-perl"]
+	path = vim-perl
+	url = https://github.com/vim-perl/vim-perl
+[submodule "plugins.vim"]
+	path = plugins.vim
+	url = https://github.com/spicyjack/plugins.vim
+[submodule "vim-perl-variable-highlighter"]
+	path = vim-perl-variable-highlighter
+	url = https://github.com/mannih/vim-perl-variable-highlighter
+[submodule "bufexplorer.zip"]
+	path = bufexplorer.zip
+	url = https://github.com/vim-scripts/bufexplorer.zip
+[submodule "Align"]
+	path = Align
+	url = https://github.com/vim-scripts/Align
+[submodule "taglist.vim"]
+	path = taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim
+[submodule "TaskList.vim"]
+	path = TaskList.vim
+	url = https://github.com/vim-scripts/TaskList.vim

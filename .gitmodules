@@ -52,3 +52,6 @@
 [submodule "TaskList.vim"]
 	path = TaskList.vim
 	url = https://github.com/vim-scripts/TaskList.vim
+[submodule "syntax-dosini.vim"]
+	path = syntax-dosini.vim
+	url = https://github.com/xuhdev/syntax-dosini.vim

@@ -40,9 +40,9 @@
 [submodule "bufexplorer.zip"]
 	path = bufexplorer.zip
 	url = https://github.com/vim-scripts/bufexplorer.zip
-[submodule "Align"]
-	path = Align
-	url = https://github.com/vim-scripts/Align
+[submodule "Align.vim"]
+	path = Align.vim
+	url = purl:/srv/git/vim/vim-align.git
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim

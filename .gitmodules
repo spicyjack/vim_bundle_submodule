@@ -34,9 +34,6 @@
 [submodule "vim-perl"]
 	path = vim-perl
 	url = https://github.com/vim-perl/vim-perl
-[submodule "plugins.vim"]
-	path = plugins.vim
-	url = https://github.com/spicyjack/plugins.vim
 [submodule "vim-perl-variable-highlighter"]
 	path = vim-perl-variable-highlighter
 	url = https://github.com/mannih/vim-perl-variable-highlighter
@@ -55,3 +52,6 @@
 [submodule "syntax-dosini.vim"]
 	path = syntax-dosini.vim
 	url = https://github.com/xuhdev/syntax-dosini.vim
+[submodule "spicyjacks_plugins.vim"]
+	path = spicyjacks_plugins.vim
+	url = git@github.com:spicyjack/plugins.vim.git

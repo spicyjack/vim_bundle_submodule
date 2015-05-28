@@ -55,3 +55,6 @@
 [submodule "spicyjacks_plugins.vim"]
 	path = spicyjacks_plugins.vim
 	url = git@github.com:spicyjack/plugins.vim.git
+[submodule "plantuml-syntax"]
+	path = plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax.git

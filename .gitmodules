@@ -42,7 +42,7 @@
 	url = https://github.com/vim-scripts/bufexplorer.zip
 [submodule "Align.vim"]
 	path = Align.vim
-	url = purl:/srv/git/vim/vim-align.git
+	url = https://github.com/vim-scripts/Align
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim

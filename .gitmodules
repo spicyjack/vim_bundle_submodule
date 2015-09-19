@@ -61,3 +61,6 @@
 [submodule "pgsql.vim"]
 	path = pgsql.vim
 	url = https://github.com/exu/pgsql.vim
+[submodule "rust.vim"]
+	path = rust.vim
+	url = https://github.com/rust-lang/rust.vim.git

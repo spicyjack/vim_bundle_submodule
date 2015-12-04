@@ -64,3 +64,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "php.vim"]
+	path = php.vim
+	url = https://github.com/StanAngeloff/php.vim.git

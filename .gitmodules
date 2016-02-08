@@ -67,3 +67,6 @@
 [submodule "php.vim"]
 	path = php.vim
 	url = https://github.com/StanAngeloff/php.vim.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git

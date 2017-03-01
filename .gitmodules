@@ -73,6 +73,3 @@
 [submodule "vim-swift"]
 	path = vim-swift
 	url = https://github.com/kballard/vim-swift
-[submodule "spicyjacks_settings.vim"]
-	path = spicyjacks_settings.vim
-	url = purl:/srv/git/spicyjacks_settings.vim.git

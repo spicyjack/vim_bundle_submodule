@@ -73,3 +73,6 @@
 [submodule "vim-swift"]
 	path = vim-swift
 	url = https://github.com/kballard/vim-swift
+[submodule "vim-gitignore"]
+	path = vim-gitignore
+	url = ./vim-gitignore

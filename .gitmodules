@@ -75,4 +75,4 @@
 	url = https://github.com/kballard/vim-swift
 [submodule "vim-gitignore"]
 	path = vim-gitignore
-	url = ./vim-gitignore
+	url = https://github.com/gisphm/vim-gitignore.git

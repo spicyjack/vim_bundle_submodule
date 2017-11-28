@@ -79,3 +79,6 @@
 [submodule "applescript.vim"]
 	path = applescript.vim
 	url = https://github.com/Tyilo/applescript.vim.git
+[submodule "dhcpd.vim"]
+	path = dhcpd.vim
+	url = spicyjack:vim-scripts/dhcpd.vim.git

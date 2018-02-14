@@ -85,3 +85,6 @@
 [submodule "nginx.vim"]
 	path = nginx.vim
 	url = https://github.com/chr4/nginx.vim.git
+[submodule "vim-bind"]
+	path = vim-bind
+	url = https://github.com/Absolight/vim-bind.git

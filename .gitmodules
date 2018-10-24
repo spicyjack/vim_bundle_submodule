@@ -88,3 +88,6 @@
 [submodule "vim-bind"]
 	path = vim-bind
 	url = https://github.com/Absolight/vim-bind.git
+[submodule "openvpn"]
+	path = openvpn
+	url = https://github.com/vim-scripts/openvpn.git

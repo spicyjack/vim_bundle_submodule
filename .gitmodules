@@ -81,7 +81,7 @@
 	url = https://github.com/Tyilo/applescript.vim.git
 [submodule "dhcpd.vim"]
 	path = dhcpd.vim
-	url = spicyjack:vim-scripts/dhcpd.vim.git
+	url = https://github.com/vim-scripts/dhcpd.vim.git
 [submodule "nginx.vim"]
 	path = nginx.vim
 	url = https://github.com/chr4/nginx.vim.git

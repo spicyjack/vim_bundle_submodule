@@ -19,6 +19,7 @@
 [submodule "cocoa.vim"]
 	path = cocoa.vim
 	url = https://github.com/msanders/cocoa.vim
+   ignore = dirty
 [submodule "vim-git"]
 	path = vim-git
 	url = https://github.com/tpope/vim-git
@@ -43,9 +44,11 @@
 [submodule "Align.vim"]
 	path = Align.vim
 	url = https://github.com/spicyjack/Align
+   ignore = dirty
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/spicyjack/taglist.vim
+   ignore = dirty
 [submodule "TaskList.vim"]
 	path = TaskList.vim
 	url = https://github.com/vim-scripts/TaskList.vim
@@ -73,6 +76,7 @@
 [submodule "vim-swift"]
 	path = vim-swift
 	url = https://github.com/kballard/vim-swift
+   ignore = dirty
 [submodule "vim-gitignore"]
 	path = vim-gitignore
 	url = https://github.com/gisphm/vim-gitignore.git

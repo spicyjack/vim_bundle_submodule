@@ -38,9 +38,6 @@
 [submodule "vim-perl-variable-highlighter"]
 	path = vim-perl-variable-highlighter
 	url = https://github.com/mannih/vim-perl-variable-highlighter
-[submodule "bufexplorer.zip"]
-	path = bufexplorer.zip
-	url = https://github.com/vim-scripts/bufexplorer.zip
 [submodule "Align.vim"]
 	path = Align.vim
 	url = https://github.com/spicyjack/Align

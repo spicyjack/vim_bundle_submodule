@@ -92,3 +92,6 @@
 [submodule "openvpn"]
 	path = openvpn
 	url = https://github.com/vim-scripts/openvpn.git
+[submodule "bufexplorer"]
+	path = bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git

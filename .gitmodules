@@ -95,3 +95,18 @@
 [submodule "bufexplorer"]
 	path = bufexplorer
 	url = https://github.com/jlanzarotta/bufexplorer.git
+[submodule "deoplete.nvim"]
+	path = deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
+[submodule "nvim-yarp"]
+	path = nvim-yarp
+	url = https://github.com/roxma/nvim-yarp.git
+[submodule "neosnippet.vim"]
+	path = neosnippet.vim
+	url = https://github.com/Shougo/neosnippet.vim.git
+[submodule "vim-hug-neovim-rpc"]
+	path = vim-hug-neovim-rpc
+	url = https://github.com/roxma/vim-hug-neovim-rpc.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets.git
